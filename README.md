@@ -1,4 +1,4 @@
-# `Praqma/Network-Multitool` is now `wbitt/Network-Multitool`
+# `Praqma/Network-Multitool` is now `wbitt/Network-Multitool`i
 ## 05 Jan 2022 - Important note about name/org change:
 Few years ago, I created this tool with Henrik Høegh, as `praqma/network-multitool`. Praqma was bought by another company, and now the "Praqma" brand is being dismantled. This means the network-multitool's git and docker repositories must go. Since, I was the one maintaining the docker image for all these years, it was decided by the current representatives of the company to hand it over to me so I can continue maintaining it. So, apart from a small change in the repository name/url, nothing has changed. 
 
